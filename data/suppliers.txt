@@ -1,0 +1,4 @@
+Supplier Name	Supplier Code
+Supplier A		S1
+Supplier 2		S2
+Supplier 3		S3

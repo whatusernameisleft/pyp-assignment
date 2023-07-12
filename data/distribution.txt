@@ -1,0 +1,11 @@
+Item Code	Type	Amount	Hospital Code
+HC		+	100		N/A
+HC		-	100		H3
+FS		-	100		H2
+SC		-	99		H1
+FS		+	100		N/A
+FS		-	100		H1
+FS		+	100		N/A
+SC		+	99		N/A
+FS		-	100		H2
+SC		-	99		H1

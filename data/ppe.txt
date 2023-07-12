@@ -1,0 +1,7 @@
+Item Code	Item Name	Stock	Supplier
+HC		Head Cover	100	S1
+FS		Face Shield	0	S1
+MS		Mask    	100	S2
+GL		Gloves  	100	S2
+GW		Gown    	100	S3
+SC		Shoe Covers	1	S3

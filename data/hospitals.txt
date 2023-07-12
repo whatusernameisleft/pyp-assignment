@@ -1,0 +1,4 @@
+Hospital Name	Hospital Code
+Hospital A		H1
+Hospital 2		H2
+Hospital 3		H3
